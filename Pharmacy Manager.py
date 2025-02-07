@@ -43,7 +43,7 @@ class App(ctk.CTk):
         self.resizable(False, False)
         self.iconbitmap(iconpath)
 
-        self.title('Store Manager')
+        self.title('Pharmacy Manager')
 
         # background
         back = ctk.CTkImage(light_image=Image.open(backgroundpath),
