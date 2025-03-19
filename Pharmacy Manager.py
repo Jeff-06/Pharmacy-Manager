@@ -5,7 +5,7 @@ from PIL import Image #for background images
 from ctktable import CTkTable #Module for ctk tables
 import sqlite3 as mydb #for storing data in database
 import os # for deletion of files
-
+#hi
 ctk.set_appearance_mode('Dark')
 
 #database for user data
